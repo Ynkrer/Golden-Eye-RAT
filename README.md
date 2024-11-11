@@ -10,8 +10,9 @@ Golden Eye RAT (Remote Access Trojan) is a malware tool that has been circulated
 
 
 # How to compile?
-Need the following sdk: .NET Framework 4.6.1(Stub, GoldenEye Licensing Server, GoldenEye Remote Administration Tool)
-You can also compile his project in Visual Studio 2022/2019
+Need the following sdk: .NET Framework 4.6.1(Stub, GoldenEye Licensing Server, GoldenEye Remote Administration Tool).
+
+You can also compile his project in Visual Studio 2022/2019/2017.
 
 
 # Images:
