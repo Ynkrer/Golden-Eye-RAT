@@ -8,6 +8,12 @@ Golden Eye RAT (Remote Access Trojan) is a malware tool that has been circulated
 
 - Golden Eye RAT was originally sold on platforms like HackForum, but versions have since been leaked or shared freely, making it more accessible to a broader range of cybercriminals. Its availability and functionality make it a persistent threat in the cybersecurity landscape.
 
+
+# How to compile?
+Need the following sdk: .NET Framework 4.6.1(Stub, GoldenEye Licensing Server, GoldenEye Remote Administration Tool)
+You can also compile his project in Visual Studio 2022/2019
+
+
 # Images:
 
 <img src=https://i.imgur.com/be0XGUg.png>
