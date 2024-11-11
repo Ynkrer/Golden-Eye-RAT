@@ -22,3 +22,11 @@ You can also compile his project in Visual Studio 2022/2019/2017.
 <img src=https://i.imgur.com/btNKkat.png>
 <img src=https://i.imgur.com/9GPKpef.png>
 <img src=https://i.imgur.com/7TwrJOl.png>
+
+
+# Images Licensing Server:
+
+<img src=https://i.imgur.com/1DpyH3S.png>
+<img src=https://i.imgur.com/YtBrhEn.png>
+<img src=https://i.imgur.com/5aWiT5z.png>
+<img src=https://i.imgur.com/gPyiJqj.png>
